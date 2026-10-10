@@ -1,4 +1,4 @@
-# Challenge 2 — Double Door
+# Challenge 2 — String check (claude given challenge)
 
 **Topic:** String comparisons  
 **Tools:** IDA Free (static) + Local Windows debugger
