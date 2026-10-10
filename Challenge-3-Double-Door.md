@@ -1,4 +1,4 @@
-# Challenge 3 — Password Cracker
+# Challenge 3 — Double Door
 
 **Topic:** Loop + attempts + Base64 + backdoor  
 **Tools:** IDA Free (static) + Local Windows debugger
